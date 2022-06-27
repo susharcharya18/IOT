@@ -33,6 +33,7 @@ RGB using 3 led: https://wokwi.com/projects/new/arduino-uno
 trafic signal: https://wokwi.com/projects/new/arduino-uno
 
 RGB using rgbLED: https://wokwi.com/projects/333802413751272018
+ULTRASONIC SENSOR WITH LED :https://wokwi.com/projects/335610512536502868
 
 Hello word: https://wokwi.com/projects/322062421191557714
 
