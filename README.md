@@ -46,3 +46,6 @@ https://wokwi.com/projects/338148645122605652<br>
 
 lablist2
 https://wokwi.com/projects/337602684471214674<br>
+ESP32
+1) ESP32 BUZZER AND LED CONNECTION
+https://wokwi.com/projects/338228658263032403
