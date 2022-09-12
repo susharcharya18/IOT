@@ -52,3 +52,31 @@ https://wokwi.com/projects/338228658263032403
 
 ESP32
 https://wokwi.com/projects/340854632473428562-CHASSER
+
+
+Seven segment LED display example
+https://wokwi.com/projects/342585948967535186
+
+Analog Joystick with two axes (horizontal/vertical) and an integrated push button. Etch-a-sketch - A simple drawing game using a MAX7219 LED Dot Matrix Reference
+https://wokwi.com/projects/342587852746392147
+
+DHT22 on the ESP32 Reference
+https://wokwi.com/projects/322410731508073042
+
+ Display distance on LCD screen with buzzer and LED  Reference 
+https://wokwi.com/projects/342590057659499092
+
+https://wokwi.com/projects/342591571798000212
+
+
+
+
+
+
+
+
+
+
+
+
+
